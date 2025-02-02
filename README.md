@@ -5,4 +5,9 @@ The user interface (UI) is built in a modular fashion, allowing to only load the
 
 The MIDI CC commands are based on [this reference](https://downloads.waldorfmusic.com/cloud/index.php/s/KzjAwQjrs497BZF) and the [user manual](https://cloud.waldorfmusic.com/index.php/s/jjKoRMjgHNWER72).
 
+Currently, no SysEx messages are supported, however, this will perhaps be added in the future.
+
+## Disclaimer
+
+This product is in no way affiliated with or endorsed by [Waldorf Music](https://waldorfmusic.com).
 
