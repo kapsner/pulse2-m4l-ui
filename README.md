@@ -11,8 +11,7 @@ Currently, no SysEx messages are supported, however, this will perhaps be added 
 
 ### OSC
 
-![](_img/osc.png)
-
+![](_img/OSC.png)
 
 ### VCF
 
@@ -20,15 +19,19 @@ Currently, no SysEx messages are supported, however, this will perhaps be added 
 
 ### LFO
 
-![](_img/lfo.png)
+![](_img/LFO.png)
 
 ### ENV
 
-![](_img/env.png)
+![](_img/ENV.png)
 
 ### MOD
 
-![](_img/mod.png)
+![](_img/MOD.png)
+
+### ARP
+
+![](_img/arp.png)
 
 ### Global
 
