@@ -7,6 +7,8 @@ The MIDI CC commands are based on [this reference](https://downloads.waldorfmusi
 
 Currently, no SysEx messages are supported, however, this will perhaps be added in the future.
 
+[https://maxforlive.com/library/device/12050/pulse-2-ui](https://maxforlive.com/library/device/12050/pulse-2-ui)
+
 ## Modules
 
 ### OSC
